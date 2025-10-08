@@ -2,3 +2,8 @@ title: "Hatice Karataş"
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-architect
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
