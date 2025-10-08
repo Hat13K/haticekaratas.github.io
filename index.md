@@ -24,7 +24,7 @@ Otonom sistemler, sağlık teknolojileri ve savunma uygulamalarına yönelik ger
 
 ## 🛠️ Teknik Yetenekler
 
-`Python`, `Java`, `Docker`, `YOLO`, `U-Net`, `XGBoost`, `MLOps`, `TensorFlow`, `PyTorch`
+`Python`, `Java`, `Docker`, `YOLO`, `U-Net`, `XGBoost`, `MLOps`, `PPO`, `TensorFlow`, `PyTorch`
 
 ---
 
