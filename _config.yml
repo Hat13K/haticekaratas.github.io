@@ -1,0 +1,29 @@
+title: "Hatice Karataş"
+description: "AI, Computer Vision and Medical Imaging Projects"
+baseurl: ""
+url: "https://haticekaratas.github.io"
+theme: minimal-mistakes-jekyll
+
+author:
+  name: "Hatice Karataş"
+  bio: "Software engineer focused on AI, computer vision, and autonomous systems."
+  email: karatashatice209@gmail.com
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Hat13K"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/haticekaratas13"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
