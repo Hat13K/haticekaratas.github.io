@@ -42,7 +42,7 @@ Komuta Kontrol ve Savunma Teknolojileri biriminde görüntü işleme tabanlı pr
 ## 📁 Projeler
 
 🧬 **[Apandisit Teşhisi – Tıbbi Görüntüleme](/projects/appendicitis/)**  
-🔥 **[Uçak Tespiti – Video Segmentasyonu](/projects/aircraft/)**  
+✈️ **[Uçak Tespiti – Video Segmentasyonu](/projects/aircraft/)**  
 🌲 **[Drone Devriyesi – Pekiştirmeli Öğrenme](/projects/drone/)**
 
 > Tüm projeleri [Posts](./posts) sekmesinden inceleyebilirsiniz.
