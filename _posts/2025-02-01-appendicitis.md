@@ -31,7 +31,7 @@ This project focuses on building an AI-based decision support system for diagnos
 
 ### 🖼️ Sample Outputs
 
-<img src="/assets/img/us.png" width="400"/>
+<img src="](https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400"/>
 <img src="/assets/img/us1.png" width="400"/>
 <img src="/assets/img/us_mask.png" width="400"/>
 <img src="/assets/img/us_inpainted.png" width="400"/>
