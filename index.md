@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 👩‍💻 Hatice Karataş
+# 👩‍💻 Yazılım Mühendisi
 
 Yazılım mühendisi olarak yapay zekâ, bilgisayarlı görü ve pekiştirmeli öğrenme alanlarında uzmanlaştım.  
 Otonom sistemler, sağlık teknolojileri ve savunma uygulamalarına yönelik gerçek dünya çözümleri geliştirme deneyimine sahibim.
