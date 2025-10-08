@@ -41,9 +41,10 @@ Komuta Kontrol ve Savunma Teknolojileri biriminde görüntü işleme tabanlı pr
 
 ## 📁 Projeler
 
-🧬 **[Apandisit Teşhisi – Tıbbi Görüntüleme](/projects/appendicitis/)**  
-✈️ **[Uçak Tespiti – Video Segmentasyonu](/projects/aircraft/)**  
-🌲 **[Drone Devriyesi – Pekiştirmeli Öğrenme](/projects/drone/)**
+🧬 [Apandisit Teşhisi – Tıbbi Görüntüleme](https://haticekaratas.github.io/_posts/2025-10-07-appendicitis)  
+✈️ [Uçak Tespiti – Video Segmentasyonu](https://haticekaratas.github.io/_posts/2025-10-07-aircraft)  
+🌲 [Drone Devriyesi – Pekiştirmeli Öğrenme](https://haticekaratas.github.io/_posts/2025-10-07-drone)
+
 
 > Tüm projeleri [Posts](./posts) sekmesinden inceleyebilirsiniz.
 
