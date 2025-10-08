@@ -1,12 +1,5 @@
 title: "Hatice Karataş"
-description: "Portfolio showcasing projects in AI, medical imaging, and autonomous systems."
-url: "https://haticekaratas.github.io"
-baseurl: ""
+logo: /assets/img/logo.jpeg
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-architect
-
-author:
-  name: Hatice Karataş
-  email: karatashatice209@gmail.com
-
-plugins:
-  - jekyll-feed
