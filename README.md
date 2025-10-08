@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website!  
 This GitHub Pages site presents my selected projects and experience in the fields of **artificial intelligence**, **computer vision**, and **autonomous systems**.
 
-🔗 Visit the live website: [[haticekaratas.github.io](https://haticekaratas.github.io)](https://hat13k.github.io/haticekaratas.github.io/)
-
+🔗 Visit the live website: https://hat13k.github.io/haticekaratas.github.io/
 ---
 
 ## 🧠 About Me
