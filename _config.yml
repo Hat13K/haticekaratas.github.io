@@ -1,28 +1,36 @@
 title: "Hatice Karataş"
-description: "AI, Computer Vision and Medical Imaging Projects"
-baseurl: ""
+tagline: "Software Engineer | AI Projects | Computer Vision"
+description: "Portfolio showcasing projects in AI, medical imaging, and autonomous systems."
 url: "https://haticekaratas.github.io"
+baseurl: ""
+lang: en
+timezone: Europe/Istanbul
 
 author:
-  name: "Hatice Karataş"
+  name: Hatice Karataş
   bio: "Software engineer focused on AI, computer vision, and autonomous systems."
   email: karatashatice209@gmail.com
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Hat13K"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/haticekaratas13"
+  github: Hat13K
+  linkedin: haticekaratas13
+
+theme_mode: dark
+
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /tags/projects/
+  - title: CV
+    url: /assets/cv/Hatice_Karatas_CV.pdf
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-include-cache
+  - jekyll-sitemap
 
 collections:
   posts:
     output: true
     permalink: /:categories/:title/
+
 
