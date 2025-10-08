@@ -45,7 +45,7 @@ Komuta Kontrol ve Savunma Teknolojileri biriminde görüntü işleme tabanlı pr
 ✈️ [Uçak Tespiti – Video Segmentasyonu]({{ site.baseurl }}/projects/aircraft/)
 🌲 [Drone Devriyesi – Pekiştirmeli Öğrenme]({{ site.baseurl }}/projects/drone/)
 
-> Tüm projeleri [Posts](./posts) sekmesinden inceleyebilirsiniz.
+> Tüm projeleri [Posts](./_posts) sekmesinden inceleyebilirsiniz.
 
 ---
 
