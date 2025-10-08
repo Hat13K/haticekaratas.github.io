@@ -1,6 +1,6 @@
 ---
 title: "Pediatric Appendicitis Diagnosis"
-date: 2025-10-07
+date: 2025-02-01
 categories: [projects]
 tags: [AI, medical imaging, ultrasound, YOLO, U-Net, XGBoost, Docker]
 ---
