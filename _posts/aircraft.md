@@ -2,7 +2,6 @@
 title: "Aircraft Detection in Video"
 layout: post
 permalink: /projects/aircraft/
-date: 2025-10-07
 categories: [projects]
 tags: [computer vision, video segmentation, YOLO, U-Net, defense, heatmap]
 ---
