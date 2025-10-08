@@ -27,9 +27,9 @@ I’ve worked on:
 
 | Project | Description |
 |--------|-------------|
-| [Appendicitis Detection](https://haticekaratas.github.io/appendicitis) | Deep learning model for ultrasound-based diagnosis |
-| [Aircraft Heatmap](https://haticekaratas.github.io/aircraft) | Object segmentation from defense videos |
-| [RL Drone Patrol](https://haticekaratas.github.io/drone) | Reinforcement learning for disaster response |
+| [Appendicitis Detection](https://github.com/Hat13K/haticekaratas.github.io/appendicitis) | Deep learning model for ultrasound-based diagnosis |
+| [Aircraft Heatmap](https://github.com/Hat13K/haticekaratas.github.io/aircraft) | Object segmentation from defense videos |
+| [RL Drone Patrol](https://github.com/Hat13K/haticekaratas.github.io/drone) | Reinforcement learning for disaster response |
 
 ---
 
