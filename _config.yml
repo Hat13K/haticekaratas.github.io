@@ -2,7 +2,7 @@ title: "Hatice Karataş"
 tagline: "Software Engineer | AI Projects | Computer Vision"
 description: "Portfolio showcasing projects in AI, medical imaging, and autonomous systems."
 url: "https://haticekaratas.github.io"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 baseurl: ""
 lang: en
 timezone: Europe/Istanbul
