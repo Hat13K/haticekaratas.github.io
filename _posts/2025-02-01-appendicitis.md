@@ -32,20 +32,20 @@ This project focuses on building an AI-based decision support system for diagnos
 ### 🖼️ Sample Outputs
 
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400"/>
-<img src="/assets/img/us1.png" width="400"/>
-<img src="/assets/img/us_mask.png" width="400"/>
-<img src="/assets/img/us_inpainted.png" width="400"/>
-<img src="/assets/img/results_ml.png" width="400"/>
-<img src="/assets/img/stream.png" width="400"/>
-<img src="/assets/img/web.png" width="400"/>
-<img src="/assets/img/web2.png" width="400"/>
-<img src="/assets/img/web3.png" width="400"/>
-<img src="/assets/img/web4.png" width="400"/>
-<img src="/assets/img/web5.png" width="400"/>
-<img src="/assets/img/web6.png" width="400"/>
-<img src="/assets/img/web7.png" width="400"/>
-<img src="/assets/img/web8.png" width="400"/>
-<img src="/assets/img/tabular.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us1.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_inpainted.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/results_ml.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/stream.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web2.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web3.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web4.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web5.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web6.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web7.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web8.png" width="400"/>
+<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/tabular.png" width="400"/>
 
 ---
 
