@@ -1,38 +1,12 @@
 title: "Hatice Karataş"
-tagline: "Software Engineer | AI Projects | Computer Vision"
 description: "Portfolio showcasing projects in AI, medical imaging, and autonomous systems."
 url: "https://haticekaratas.github.io"
-theme: jekyll-theme-cayman
 baseurl: ""
-lang: en
-timezone: Europe/Istanbul
-
+theme: jekyll-theme-architect
 
 author:
   name: Hatice Karataş
-  bio: "Software engineer focused on AI, computer vision, and autonomous systems."
   email: karatashatice209@gmail.com
-  github: Hat13K
-  linkedin: haticekaratas13
-
-theme_mode: dark
-
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /tags/projects/
-  - title: CV
-    url: /assets/cv/Hatice_Karatas_CV.pdf
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:title/
-
-
