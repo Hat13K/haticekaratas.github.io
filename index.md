@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 # 👩‍💻 Hatice Karataş
@@ -24,7 +24,7 @@ Otonom sistemler, sağlık teknolojileri ve savunma uygulamalarına yönelik ger
 
 ## 🛠️ Teknik Yetenekler
 
-`Python`, `Java`, `Docker`, `YOLO`, `U-Net`, `XGBoost`, `MLOps`, `PPO`, `TensorFlow`, `PyTorch`
+`Python`, `Java`, `Docker`, `YOLO`, `U-Net`, `XGBoost`, `MLOps`, `TensorFlow`, `PyTorch`
 
 ---
 
@@ -57,4 +57,4 @@ Komuta Kontrol ve Savunma Teknolojileri biriminde görüntü işleme tabanlı pr
 
 ---
 
-🧾 [CV’yi Görüntüle](/assets/cv/Hatice_Karatas_CV.pdf)
+🧾 [CV’yi Görüntüle](/assets/cv/Hatice_Karatas_Ozgeçmiş.pdf)
