@@ -5,7 +5,7 @@ This GitHub Pages site presents my selected projects and experience in the field
 
 🔗 Visit the live website: https://hat13k.github.io/haticekaratas.github.io/
 ---
-🧾 [View my CV](https://haticekaratas.github.io/assets/cv/Hatice_Karatas_CV.pdf)⬇️
+🧾 [View my CV](https://haticekaratas.github.io/assets/cv/Hatice_Karatas_CV.pdf) ⬇️
 ---
 
 ## 🧠 About Me
