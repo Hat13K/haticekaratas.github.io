@@ -7,6 +7,15 @@ tags: [AI, medical imaging, ultrasound, YOLO, U-Net, XGBoost, Docker]
 
 This project focuses on building an AI-based decision support system for diagnosing appendicitis in pediatric patients using ultrasound images and clinical data.
 
+---
+
+### ⚙️ Tools & Technologies
+
+`YOLOv5`, `U-Net`, `XGBoost`, `Python`, `Docker`, `Pandas`, `OpenCV`, `Optuna`, `MCA`
+
+---
+
+
 ### 🧠 Methodology
 
 - **Preprocessing:**  
@@ -59,8 +68,5 @@ This project focuses on building an AI-based decision support system for diagnos
 
 ---
 
-### ⚙️ Tools & Technologies
-
-`YOLOv5`, `U-Net`, `XGBoost`, `Python`, `Docker`, `Pandas`, `OpenCV`, `Optuna`, `MCA`
 
 > This project was submitted to TEKNOFEST 2025 (Health Category) and presented at TMMOB BPS2025.
