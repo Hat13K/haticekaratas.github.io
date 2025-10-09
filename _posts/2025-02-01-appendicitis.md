@@ -105,6 +105,7 @@ To automatically measure the appendix diameter from ultrasound images and combin
   
 - Models were evaluated not only with pixel-wise accuracy but also using a custom clinical metric: the difference between the predicted and true appendix diameter, calculated based on both tabular diagnosis labels and segmentation masks obtained from ultrasound images.
 Cumulative distribution plots show that most predictions fall within a ±3 mm margin, making the models clinically reliable for diagnostic support.
+
   <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/output.png" width="400"/>
   <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/true_stacked_count_delta.png" width="400"/>
   <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/mask_stacked_count_delta.png" width="400"/>
