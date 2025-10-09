@@ -4,7 +4,7 @@ date: 2025-02-01
 categories: [projects]
 tags: [AI, medical imaging, ultrasound, YOLO, U-Net, XGBoost, Docker]
 ---
-
+# 🧬 Pediatric Appendicitis Diagnosis
 This project presents an AI-powered decision support system for diagnosing appendicitis in pediatric patients using ultrasound imaging and tabular data.
 
 ---
@@ -30,12 +30,12 @@ To automatically measure the appendix diameter from ultrasound images and combin
 
 <table>
 <tr>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/data.png" width="400"/></td>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/data.png" width="400" height="300" /></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400" height="300" /></td>
 </tr>
 <tr>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_inpainted.png" width="400"/></td>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_inpainted.png" width="400" height="300" /></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400" height="300" /></td>
 </tr>
 </table>
 
@@ -90,8 +90,8 @@ Cumulative distribution plots indicate that most predictions fall within a ±3 m
 
 <table>
 <tr>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/results_ml.png" width="400"/></td>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/output.png" width="400"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/results_ml.png" width="400" height="300"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/output.png" width="400" height="300"/></td>
 </tr>
 <tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/true_stacked_count_delta.png" width="400"/></td>
@@ -126,23 +126,24 @@ Encoders used across segmentation models:
 
 <table>
 <tr>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/stream.png" width="400"/></td>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web.png" width="400"/></td>
-</tr>
-<tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web2.png" width="400"/></td>
+
+</tr>
+<tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web3.png" width="400"/></td>
-</tr>
-<tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web4.png" width="400"/></td>
+</tr>
+<tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web5.png" width="400"/></td>
-</tr>
-<tr>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web6.png" width="400"/></td>
-<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web7.png" width="400"/></td>
 </tr>
 <tr>
-<td colspan="2"><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web8.png" width="400"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web7.png" width="400"/></td>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web8.png" width="400"/></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/stream.png" width="400"/></td>
 </tr>
 </table>
 
