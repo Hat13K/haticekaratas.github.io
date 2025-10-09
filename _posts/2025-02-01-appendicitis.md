@@ -14,11 +14,23 @@ This project focuses on building an AI-based decision support system for diagnos
   Diagnosis labels standardized to binary (`appendicitis`, `no_appendicitis`).  
   Ultrasound images resized to 256×256 and normalized.  
   Inpainting used to remove helper lines via Navier-Stokes.
+  
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/tabular.png" width="400"/>
+
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400"/>
+  
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_inpainted.png" width="400"/>
+
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400"/>
+
 
 - **Two-Stage Modeling:**  
   1. YOLO model extracted bounding box from ultrasound image  
   2. Cropped region fed into U-Net for segmentation of appendix → diameter measured  
   3. Combined with demographic/lab/tabular data using MCA + XGBoost
+  
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us1.png" width="400"/>
+  <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/results_ml.png" width="400"/>
 
 - **Evaluation:**  
   Custom loss function designed for diameter-length-based scoring.  
@@ -27,25 +39,23 @@ This project focuses on building an AI-based decision support system for diagnos
 - **Deployment:**  
   Pipeline containerized with Docker and served via web interface.
 
----
-
-### 🖼️ Sample Outputs
-
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us.png" width="400"/>
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us1.png" width="400"/>
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400"/>
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_inpainted.png" width="400"/>
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/results_ml.png" width="400"/>
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/stream.png" width="400"/>
+  
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web2.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web3.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web4.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web5.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web6.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web7.png" width="400"/>
+
 <img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/web8.png" width="400"/>
-<img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/tabular.png" width="400"/>
 
 ---
 
