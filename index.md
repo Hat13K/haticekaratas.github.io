@@ -33,7 +33,7 @@ I have hands-on experience developing real-world solutions for autonomous system
 ## 🧠 Education & Experience
 
 🎓 **Istinye University**  
-B.Sc. in Software Engineering (100% Scholarship) – GPA: 3.65 – 2nd in Class  
+B.Sc. in Software Engineering (100% Scholarship) – GPA: 3.65 – 2nd in Department  
 📍 Istanbul, Turkey
 
 🏢 **HAVELSAN – Engineering Intern**  
