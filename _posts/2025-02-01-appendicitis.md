@@ -30,6 +30,7 @@ To automatically measure the appendix diameter from ultrasound images and combin
 
 <table>
 <tr>
+<td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/tabular.png" width="400"/></td>
 <td><img src="https://hat13k.github.io/haticekaratas.github.io/assets/img/us_mask.png" width="400"/></td>
 </tr>
 <tr>
