@@ -149,4 +149,4 @@ Encoders used across segmentation models:
 
 ---
 
-🏆 This project was submitted to TEKNOFEST 2025 (Health Category), presented at TMMOB BPS2025, and selected for the inzva AI Projects, a 4-month AI development marathon that brings together AI enthusiasts working on real-world problems across different domains. Our final solution was presented to a community of researchers and professionals during the program’s closing event.
+🏆 This project was submitted to TEKNOFEST 2025 (Health Category), presented at TMMOB BPS2025, and continued to improve this system within the scope of the inzva AI Projects, a 4-month AI development marathon that brings together AI enthusiasts working on real-world problems across different domains. Our final solution was presented to a community of researchers and professionals during the program’s closing event.
